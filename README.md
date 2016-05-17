@@ -1,0 +1,2 @@
+# WeddingPlanner
+An programming exercise
